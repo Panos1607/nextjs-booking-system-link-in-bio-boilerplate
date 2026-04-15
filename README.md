@@ -1,5 +1,8 @@
 # 🚀 LinkSync: The Ultimate Next.js Booking & Link-in-Bio Boilerplate
 
+<img width="763" height="630" alt="Στιγμιότυπο οθόνης 2026-04-10 200218" src="https://github.com/user-attachments/assets/958cebe7-e448-4598-9bae-56726e1f40a9" />
+<img width="747" height="604" alt="Στιγμιότυπο οθόνης 2026-04-10 195915" src="https://github.com/user-attachments/assets/b8ac34a8-1e0c-4cc9-8c21-adc20611d677" />
+
 Stop wasting weeks building booking systems and link-in-bio pages from scratch. **LinkSync** is a premium, production-ready starter kit designed to help you launch for your clients in minutes.
 
 ## 🔗 [View Live Demo](https://linksync-demo.vercel.app/demo)
