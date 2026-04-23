@@ -1,5 +1,7 @@
 # 🚀 LinkSync: The Ultimate Next.js Booking & Link-in-Bio Boilerplate
 
+⭐️ If you find this useful, please consider giving it a star! It helps a lot.
+
 <img width="763" height="630" alt="Στιγμιότυπο οθόνης 2026-04-10 200218" src="https://github.com/user-attachments/assets/958cebe7-e448-4598-9bae-56726e1f40a9" />
 <img width="747" height="604" alt="Στιγμιότυπο οθόνης 2026-04-10 195915" src="https://github.com/user-attachments/assets/b8ac34a8-1e0c-4cc9-8c21-adc20611d677" />
 
